@@ -1,6 +1,4 @@
 #!/usr/bin/env python
 
-print("Enter a character name:",)
-name = raw_input()
-
+name = raw_input("What is the character name?:")
 print("You chose the following character name: {0}".format(name))
