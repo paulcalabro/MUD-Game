@@ -1,7 +1,6 @@
-#TOOD: Add character related code here.
+#!/usr/bin/env python
 
+print("Enter a character name:",)
+name = raw_input()
 
-# @Rene: Please add a method to set the character name.
-
-
-# @Paul: Pleast let me know if I pushed this correctly
+print("You chose {0}".format(name))
